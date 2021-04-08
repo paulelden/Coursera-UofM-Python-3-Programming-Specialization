@@ -1,4 +1,7 @@
-# The final project in the Functions, Files, and Dictionaries course from this specialization
+# The final project in the Functions, Files, and Dictionaries course from this specialization.
+# It is a Sentiment Analyzer - it scores the "positivity" and "negativity" of sentences (here tweets) based on the language used, and writes the scores and other
+# output to a new .csv file. 
+
 
 punctuation_chars = ["'", '"', ",", ".", "!", ":", ";", '#', '@']       # Will be used to remove punctuation from tweets
 
